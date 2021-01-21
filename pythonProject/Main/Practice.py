@@ -1,5 +1,10 @@
 print("This is a Practice Project")
 
+
+
+
+
+
 #defining variables
 x = 3
 y = 3.0
@@ -56,4 +61,6 @@ def myfunc():
 myfunc()
 
 print("Python is " + x)
+
+print('test')
 

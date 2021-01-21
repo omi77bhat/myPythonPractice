@@ -1,5 +1,7 @@
 # This is a sample Python script.
 
+
+
 from selenium import webdriver
 driver = webdriver.Chrome("/Users/omesh.bhat/PycharmProjects/pythonProject/Drivers/chromedriver")
 
